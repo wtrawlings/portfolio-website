@@ -2082,7 +2082,7 @@ button:active,
 
 #main>section.one {
     background-color: #81918E;
-    background-image: url("../../images/header-woods.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.1)), url("../../images/header-chatt.jpg");
 }
 
 #main>section.two {
