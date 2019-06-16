@@ -15,7 +15,7 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 - [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
 - [x] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
 - [x] Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: `git push origin <firstName-lastName>`.
+- [x] Push commits: `git push origin <firstName-lastName>`.
 
 ### Follow these steps to download your template and start the project:
 
@@ -39,7 +39,7 @@ I chose Prologue! I think I can change the major systems with the portfolio sect
 
 ## MVP Requirements
 
-- [ ] Study the code base and identify both responsive units and where media queries were used.  Take notes on anything that confuses you or interesting things you find.  Share this information in your standup meeting with your group
+- [x] Study the code base and identify both responsive units and where media queries were used.  Take notes on anything that confuses you or interesting things you find.  Share this information in your standup meeting with your group
 - [x] Customize the template to you 
 	- [x] Update the title tag match your name
 	- [x] Update the place holder content throughout the template to your information
