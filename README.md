@@ -15,7 +15,7 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 - [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
 - [x] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
 - [x] Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: `git push origin <firstName-lastName>`.
+- [x] Push commits: `git push origin <firstName-lastName>`.
 
 ### Follow these steps to download your template and start the project:
 
@@ -33,7 +33,7 @@ I chose Prologue! I think I can change the major systems with the portfolio sect
 
 ### Follow these steps for completing your project after your MVP is completed:
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
+- [x] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
 - [x] Add your Project Manager as a Reviewer on the Pull-request
 - [ ] PM then will count the HW as done by merging the branch back into master.
 
@@ -54,3 +54,5 @@ I chose Prologue! I think I can change the major systems with the portfolio sect
 - [ ] Study the JavaScript used in your template and see if you can tweak any of the behavior to see how it works
 - [ ] Download another template and see if you can get the CSS preprocessor working on the project
 
+## Warren Added the link for the github page:
+https://wtrawlings.github.io/portfolio-website/
